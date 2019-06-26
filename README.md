@@ -1,1 +1,1 @@
-# NotificationSystem-Using RabbitMQ Messaging broker
+# Messaging System Using RabbitMQ Messaging broker
