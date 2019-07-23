@@ -8,7 +8,7 @@ namespace ReceiveMessages
 {
     public class QueueName
     {
-        public string HIA_UNIT_NO { get; set; }
+        //public string HIA_UNIT_NO { get; set; }
         public string employeeid { get; set; }
     }
 }

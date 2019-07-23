@@ -18,5 +18,7 @@ namespace ReceiveMessages
         public string url { get; set; }
         //type 1 for import , 2 for export ,3 
         public string type { get; set; }
+        public string REMINDER_DATE { get; set; }
+        public string REMINDER_MESSAGE { get; set; }
     }
 }
